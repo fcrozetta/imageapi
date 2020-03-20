@@ -102,12 +102,13 @@ public class Activities1 {
     /**
      * Difficulty: EASY
      *
-     * Subtract img1 from img2.
+     * Subtracts img1 from img2.
+     *
      * @param img1 Image 1
      * @param img2 Image 2
      * @return The subtraction
      */
-    public static BufferedImage subtract(BufferedImage img1, BufferedImage img2) {
+    public static BufferedImage diff(BufferedImage img1, BufferedImage img2) {
         return img1;
     }
 
@@ -119,7 +120,7 @@ public class Activities1 {
      * @param img2 Image 2
      * @return The sum
      */
-    public static BufferedImage add(BufferedImage img1, BufferedImage img2) {
+    public static BufferedImage sum(BufferedImage img1, BufferedImage img2) {
         return img1;
     }
 
